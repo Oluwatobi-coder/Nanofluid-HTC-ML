@@ -159,4 +159,4 @@ if predict_btn:
             </div>
         """, unsafe_allow_html=True)
         # addinng the insights section
-        st.info(f"**Insight:** At a volume fraction of {vol_fraction}%, the model suggests the dispersed phase is effectively {'enhancing' if prediction > 4000 else 'maintaining'} the thermal boundary layer stability.")
+        st.info(f"**Insight:** At a volume fraction of {vol_fraction}%, the model suggests the dispersed phase is effectively {'enhancing' if prediction > 4000 else 'maintaining'} convective heat transfer efficiency.")
