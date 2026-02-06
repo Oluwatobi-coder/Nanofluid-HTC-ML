@@ -1,6 +1,6 @@
 # Modeling Interfacial Energy Transport in Dispersed Solid-Liquid Nanofluids - A Machine Learning Approach
 
-[Link to Live Nanofluid HTC Predictor App ✅:](https://www.google.com/search?q=https://nanofluid-htc-predictor.streamlit.app/)
+[Link to Live Nanofluid HTC Predictor App ✅:](https://nanofluid-htc-ml.streamlit.app/)
 
 <p align="center">
 <img src="./image_assets/dashboard_preview.png" alt="Nanofluid HTC Predictor Dashboard Preview" style="width:90%; height:auto; border-radius:10px;">
@@ -86,8 +86,8 @@ The XGBoost architecture demonstrated exceptional performance in capturing the i
 
 | Metric | Random Forest | **XGBoost (Best Model)** |
 | --- | --- | --- |
-| ** Score** | 0.9636 | **0.9826** |
-| **RMSE (W/m2K)** | 616.58 | **425.98** |
+| **R² Score** | 0.9636 | **0.9826** |
+| **RMSE (W/m²K)** | 616.58 | **425.98** |
 
 ### Performance Insights
 
