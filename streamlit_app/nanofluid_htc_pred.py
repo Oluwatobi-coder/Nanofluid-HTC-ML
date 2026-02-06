@@ -64,7 +64,7 @@ The model predicts the **Heat Transfer Coefficient (HTC)** of nanofluids based o
 # setting the results container
 result_container = st.container()
 
-st.divider()
+st.markdown("---")
 
 # setting the sidebar for fluid and particle parameters input to the model
 st.sidebar.header("Fluid & Particle Parameters")
