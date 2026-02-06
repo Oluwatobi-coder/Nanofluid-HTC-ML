@@ -6,7 +6,7 @@
 <img src="./image_assets/dashboard_preview.png" alt="Nanofluid HTC Predictor Dashboard Preview" style="width:90%; height:auto; border-radius:10px;">
 </p>
 
-This project implements a machine learning-based framework for predicting the convective Heat Transfer Coefficient (HTC) of nanofluids by analyzing the complex interaction between the dispersed solid phase and continuous liquid phase. The selected model achieves an **R2 Score of 0.9826** and a **RMSE of 425.98 W/m2K**, providing a real-time alternative to computationally intensive Eulerian-Lagrangian CFD simulations.
+This project implements a machine learning-based framework for predicting the convective Heat Transfer Coefficient (HTC) of nanofluids by analyzing the complex interaction between the dispersed solid phase and continuous liquid phase. The selected model achieves an **R2 Score of 0.9826** and a **RMSE of 425.98 W/m²K**, providing a real-time alternative to computationally intensive Eulerian-Lagrangian CFD simulations.
 
 ## 📌 Project Overview
 
