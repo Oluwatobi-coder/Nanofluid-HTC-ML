@@ -81,7 +81,7 @@ streamlit run ./streamlit_app/nanofluid_htc_pred.py
 The XGBoost architecture demonstrated exceptional performance in capturing the interfacial transport phenomena compared to the standard Random Forest approach.
 
 <p align="center">
-<img src="./results/model_comparison_r2.png" width="80%" alt="Model Comparison R2 Score" />
+<img src="./results/model_comparison.png" width="80%" alt="Model Comparison R2 Score" />
 </p>
 
 | Metric | Random Forest | **XGBoost (Best Model)** |
